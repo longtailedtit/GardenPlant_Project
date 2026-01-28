@@ -1,0 +1,2291 @@
+[
+    {
+        "plant_id": "NP001",
+        "basic_info": {
+            "korean_name": "세뿔석위",
+            "scientific_name": "Pyrrosia hastata (Thunb. ex Houtt.) Ching",
+            "family": "고란초과 (Polypodiaceae)",
+            "characteristics": "잎 표면은 녹색이고 뒷면에는 붉은 갈색 털이 빽빽하게 있음. 석위와 달리 세가닥으로 잎이 갈라져 세뿔이라 표현함",
+            "ecology": "숲속 바위 위나 나무줄기 겉에서 착생함",
+            "location": "충남, 전남, 경남, 제주",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "뿌리줄기가 짤막하게 옆으로 기며 자라 번식 속도가 느리다. 잎이 3~5갈래로 갈라진 창 모양이며 공중 습도가 높고 음지나 반그늘 진 곳을 선호한다. 건조에 강해 녹소토 등을 섞어 물 빠짐이 좋은 토양을 사용해야 한다. 빛이 잘 들지 않는 실내 저광 환경에서도 생육상태가 잘 유지된다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양, 질감의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "실내조경",
+                "반려식물",
+                "종합 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP001.jpg",
+            "description": "잎 표면은 녹색, 뒷면은 붉은 갈색 털이 빽빽함. 잎이 3~5갈래로 갈라진 창 모양."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP002",
+        "basic_info": {
+            "korean_name": "개부처손",
+            "scientific_name": "Selaginella stauntoniana Spring",
+            "family": "부처손과 (Selaginellaceae)",
+            "characteristics": "땅위줄기는 곧고, 주가지에서 붉은 빛이 돌며 잎은 넓은 난상 피침형의 영양엽과 삼각상 난형의 포자엽으로 구분됨",
+            "ecology": "산지 바위나 암벽에 자람",
+            "location": "강원, 충북",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "습도가 낮을 때 잎이 말리고, 높을 때는 잎이 펴진다. 내한성이 강하고 토심이 얕게 식재해야 하며 녹소토 등을 섞어 물 빠짐이 좋은 토양을 사용해야 한다. 특히, 빛이 차단된 암 조건에서도 생육상태가 잘 유지되어 실내 저광환경에서 관상가치가 우수하다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 색감, 모양, 질감의 관상가치가 높음",
+            "management_difficulty": "★☆☆☆☆",
+            "watering_frequency": "주 1회 (공중습도 관리 필요)",
+            "tags": [
+                "테라리움",
+                "실내조경",
+                "반려식물",
+                "종합 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP002.jpg",
+            "description": "가지에서 붉은 빛이 돌며, 건조하면 잎이 말리고 습하면 펴짐."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP003",
+        "basic_info": {
+            "korean_name": "선바위고사리",
+            "scientific_name": "Onychium japonicum (Thunb.) Kunze",
+            "family": "봉의꼬리과 (Pteridaceae)",
+            "characteristics": "당근잎을 닮은 고사리로 잎이 가늘고 끝은 뾰족한 특징을 가짐",
+            "ecology": "양지 바른 길이나 돌담, 산지의 숲 가장자리",
+            "location": "제주도 및 남부지역",
+            "period": "6~8월"
+        },
+        "growth": {
+            "environment": "그늘진 숲 속이나 바위 겉에서 잘 자라며 높은 온도와 습도에 잘 적응한다. 공중습도가 높은 곳을 선호하지만 뿌리 부분은 약간 건조해야 하고 바위고사리와 매우 유사하지만 영양엽과 포자엽이 다른 형태인 것이 특징이다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2~3회 (공중습도 관리 필요)",
+            "tags": [
+                "테라리움",
+                "스마트가든",
+                "실내조경",
+                "반려식물",
+                "관상가치 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP003.jpg",
+            "description": "당근잎을 닮았으며 잎이 가늘고 끝이 뾰족함. 영양엽과 포자엽 형태가 다름."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP004",
+        "basic_info": {
+            "korean_name": "골고사리",
+            "scientific_name": "Asplenium komarovii Akasawa",
+            "family": "꼬리고사리과 (Aspleniaceae)",
+            "characteristics": "단엽으로 잎몸은 바소꼴이며, 잎몸의 1/3 정도 높이에서부터 긴 줄 모양의 포자낭이 잎맥을 따라 2개씩 서로 마주남",
+            "ecology": "숲의 그늘진 곳에서 자람",
+            "location": "강원, 전북, 전남, 울릉도, 제주",
+            "period": "6~9월"
+        },
+        "growth": {
+            "environment": "새로운 순은 말려 올라와 펼쳐지며 깃털처럼 길쭉하고 두툼한 잎이 특징이다. 통기성과 배수성이 유지되는 사양토에서 생육이 좋으며, 공중습도가 높게 유지되고 서늘한 환경을 선호한다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회 (공중습도 관리 필요)",
+            "tags": [
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP004.jpg",
+            "description": "잎은 바소꼴이며 깃털처럼 길쭉하고 두툼함. 새 순이 말려 올라옴."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP005",
+        "basic_info": {
+            "korean_name": "석위",
+            "scientific_name": "Pyrrosia lingua (Thunb.) Farw.",
+            "family": "고란초과 (Polypodiaceae)",
+            "characteristics": "단엽으로, 잎몸은 넓은 피침형이며, 뒷면에 갈색 털이 많음. 포자낭은 원형으로 조밀하게 뒷면에 덮여 있음",
+            "ecology": "그늘진 바위 또는 노목 겉에 붙어서 자람",
+            "location": "제주도, 남부 산지",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "그늘 또는 반그늘에 잘 자라며, 건조와 저온에 강하지만 5°C 이상에서 활동이 가능하다. 잎이 곧게 선 모양으로 분경용으로 많이 사용된다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양, 질감의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP005.jpg",
+            "description": "잎은 넓은 피침형, 뒷면에 갈색 털 밀생. 잎이 곧게 서는 모양."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP006",
+        "basic_info": {
+            "korean_name": "가는쇠고사리",
+            "scientific_name": "Arachniodes exilis (Hance) Ching",
+            "family": "관중과 (Dryopteridaceae)",
+            "characteristics": "뿌리줄기는 지면을 기면서 옆으로 뻗어 자라며 잎이 드문드문 달림. 잎몸은 2~3회 깃꼴로 갈라지며 끝이 뾰족한 난상 타원형임",
+            "ecology": "산지 및 계곡 주변에서 큰 군락을 이루어 자람",
+            "location": "전남, 제주도",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "표면에 윤기가 나고 잎 끝이 까락처럼 뾰족하다. 우거진 상록수림 밑에서 자라는 상록성 양치식물로 어느 정도 차광 조건이 요구되며, 상토, 펄라이트 혼용 처리한 조건에서 잘 자란다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양, 질감의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회 (공중습도 관리 필요)",
+            "tags": [
+                "테라리움",
+                "스마트가든",
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP006.jpg",
+            "description": "잎 표면에 윤기가 나고 잎 끝이 까락처럼 뾰족함. 군락을 이룸."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP007",
+        "basic_info": {
+            "korean_name": "녹나무",
+            "scientific_name": "Camphora officinarum Nees",
+            "family": "녹나무과 (Lauraceae)",
+            "characteristics": "잎은 끝이 뾰족한 난형으로 어긋나기로 나며 얇은 가죽질이고 자르면 향기가 있음. 개화기에 연한 노란색의 꽃이 핌",
+            "ecology": "산기슭 양지에서 자람",
+            "location": "전남, 경남, 제주",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "잎은 달걀모양의 타원형이며 윤이 나고 향기가 있다. 토심이 깊고 비옥한 토양을 좋아하며, 음지, 양지 모두 자라지만 어느 정도 성목이 되면 많은 광을 요구한다. 공해와 추위에 약하다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양의 관상가치가 높음",
+            "management_difficulty": "★★★☆☆",
+            "watering_frequency": "격주 1회 이상",
+            "tags": [
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP007.jpg",
+            "description": "잎은 달걀모양 타원형이며 윤이 나고 향기가 있음."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP008",
+        "basic_info": {
+            "korean_name": "후박나무",
+            "scientific_name": "Machilus thunbergii Siebold & Zucc",
+            "family": "녹나무과 (Lauraceae)",
+            "characteristics": "잎 앞면은 짙은 녹색이고 윤이 나며 뒷면은 회색이 도는 녹색임. 개화기에 노란빛이 도는 녹색 꽃이 핌",
+            "ecology": "바닷가, 산기슭 등 낮은 지대에서 자람",
+            "location": "전남, 경남, 제주",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "광택이 있는 넓은 잎이 아름다우며, 황록색 꽃과 흑색의 검은빛이 도는 둥근 열매의 관상가치가 높다. 유묘시에는 음지에서도 생육이 좋으나 성목은 양지에 잘 자란다. 적당한 습기의 토양과 공중습도가 높은 곳에서 잘 자란다. 내한성은 약하지만 산성토양과 내풍력이 강해 공해에 잘 견딘다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 색감의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1회",
+            "tags": [
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP008.jpg",
+            "description": "광택이 있는 넓은 잎, 황록색 꽃과 흑색 열매가 아름다움."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP009",
+        "basic_info": {
+            "korean_name": "더부살이고사리",
+            "scientific_name": "Polystichum lepidocaulon (Hook.) J. Sm.",
+            "family": "관중과 (Dryopteridaceae)",
+            "characteristics": "넓은 피침형의 잎으로 아랫부분이 가장 넓으며 잎자루에 갈색의 비늘조각이 빽빽이 붙어있음",
+            "ecology": "해안가 산지 숲속",
+            "location": "제주, 전남",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "반그늘에서 키우는 것이 좋으나 음지에서도 잘 적응한다. 보습성과 배수성이 좋은 사질양토를 사용해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양의 관상가치가 높음",
+            "management_difficulty": "★☆☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "스마트가든",
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP009.jpg",
+            "description": "넓은 피침형 잎, 잎자루에 갈색 비늘조각이 빽빽함."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP010",
+        "basic_info": {
+            "korean_name": "점고사리",
+            "scientific_name": "Hypolepis punctata (Thunb.) Mett. ex Kuhn",
+            "family": "잔고사리과 (Dennstaedtiaceae)",
+            "characteristics": "잎몸이 좁은 타원형으로 하얀 털이 밀생하며, 포자낭은 원형으로 포막이 없고, 노란색임",
+            "ecology": "약간 습기가 있고 양지바른 풀밭에서 자람",
+            "location": "경남, 전남, 제주",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "약간 습하고 양지바른 곳에서 잘 자라 관수 주기와 광환경에 신경 써줘야 한다. 잎과 줄기 전체에 하얀 털이 있어 촉감이 거칠다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2~3회 (공중습도 관리 필요)",
+            "tags": [
+                "스마트가든",
+                "실내조경",
+                "반려식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP010.jpg",
+            "description": "잎몸이 좁은 타원형, 하얀 털이 밀생하여 촉감이 거침."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP011",
+        "basic_info": {
+            "korean_name": "층실사초",
+            "scientific_name": "Carex remotiuscula Wahlenb.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "20~60cm 높이로 자라며, 줄기에 대가 없는 이삭들이 떨어져 달리며 각 이삭에는 위쪽에 암꽃, 아래쪽에 수꽃이 달림",
+            "ecology": "습한 숲속 또는 들의 풀밭에서 자람",
+            "location": "중부 이북",
+            "period": "6~7월"
+        },
+        "growth": {
+            "environment": "연하고 납작한 잎을 가졌으며, 보습성과 배수성이 좋은 토질과 그늘 아래에서 잘 자란다. 뿌리는 모여나며 짧게 자라 깊게 식재하지 않도록 주의해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "잎, 화서의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "종합 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP011.jpg",
+            "description": "연하고 납작한 잎. 줄기에 대가 없는 이삭들이 떨어져 달림."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP012",
+        "basic_info": {
+            "korean_name": "밀사초",
+            "scientific_name": "Carex boottiana Hook. & Arn.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "30~80cm의 높이로 자라며 녹색의 잎은 단단하고 광택이 있으며 가장자리가 뒤로 말리며 갈색의 잎집은 섬유처럼 갈라짐",
+            "ecology": "해안지역 숲이나 바닷가 모래땅에서 자람",
+            "location": "남부지방, 울릉도, 제주도",
+            "period": "4~5월"
+        },
+        "growth": {
+            "environment": "잎의 마디가 없으며 전체가 억세고 반질반질하다. 건조 및 염분 토양 환경에서 생육 발달이 양호하여 염과 건조 스트레스 환경 하에서도 관상가치가 우수하다."
+        },
+        "rating": {
+            "ornamental_value": "곧은 잎, 화서의 모양이 관상가치 있음",
+            "management_difficulty": "★☆☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "가로수",
+                "종합 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP012.jpg",
+            "description": "잎은 단단하고 광택이 있으며 가장자리가 뒤로 말림."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP013",
+        "basic_info": {
+            "korean_name": "향등골나물",
+            "scientific_name": "Eupatorium tripartitum (Makino) Murata & H.Koyama",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "1~2m 높이로 자라며 원줄기 끝에 편평꽃차례로 연한 자주색 꽃이 달림",
+            "ecology": "숲의 개활지에서 자람",
+            "location": "전국 각지",
+            "period": "7~10월"
+        },
+        "growth": {
+            "environment": "달콤하고 포근한 향이 나는 진한 자주색 꽃이 7~10월에 개화한다. 양지와 반음지 모두 잘 자라며, 보습성과 배수성이 좋은 사질양토에 마사를 섞어 물 빠짐이 좋은 토양을 사용하면 좋다. 염 스트레스 하에서도 어느 정도 생육이 유지된다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양, 향기의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "가로수",
+                "수공간",
+                "종합 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP013.jpg",
+            "description": "달콤하고 포근한 향이 나는 진한 자주색 꽃 (7~10월)."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP014",
+        "basic_info": {
+            "korean_name": "청쌀새",
+            "scientific_name": "Melica grandiflora Koidz.",
+            "family": "벼과 (Poaceae)",
+            "characteristics": "원추화서는 개방형으로 4~6개의 작은 이삭이 한쪽으로 치우쳐 달림",
+            "ecology": "낮은 산지의 경사면",
+            "location": "전국 각지",
+            "period": "4~6월"
+        },
+        "growth": {
+            "environment": "얇은 잎이 모여나고, 가을이 되면 붉은빛으로 물들어 관상가치가 높다. 또한 작은 이삭 줄기는 가늘고 직립하여 4~7개의 이삭이 달린다. 내습성을 지니고 습한 토양을 선호하기 때문에, 보습성과 배수성이 좋은 사질양토에 식재하여야 한다."
+        },
+        "rating": {
+            "ornamental_value": "잎, 화서의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "정원",
+                "관상가치 우수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP014.jpg",
+            "description": "얇은 잎이 모여나며 가을에 붉게 물듦. 이삭이 한쪽으로 치우쳐 달림."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP015",
+        "basic_info": {
+            "korean_name": "산뚝사초",
+            "scientific_name": "Carex forficula Franch. & Sav.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "40~80cm 높이로 자라며 꽃줄기 끝에 3~6개의 작은 이삭이 달리는데 끝에는 선형의 수꽃이 달리고 측면부에는 원주형의 암꽃이 곧추섬",
+            "ecology": "산야의 냇가에서 잘 자람",
+            "location": "전국 각지",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "산지의 계곡 주변이나 물가에서 자라며 녹색의 얇은 잎이 모여난다. 꽃은 5~6월에 짙은 갈색으로 피고 상단은 선형의 수꽃이, 하단에는 원주형의 암꽃이 달린다. 정원 소재로서 많이 활용되고 있으며, 잔디 대체용으로도 사용된다."
+        },
+        "rating": {
+            "ornamental_value": "잎, 화서의 관상가치가 높음",
+            "management_difficulty": "★☆☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "수공간"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP015.jpg",
+            "description": "녹색의 얇은 잎이 모여남. 5~6월에 짙은 갈색 꽃."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP016",
+        "basic_info": {
+            "korean_name": "산조풀",
+            "scientific_name": "Calamagrostis epigejos (L.) Roth",
+            "family": "벼과 (Poaceae)",
+            "characteristics": "50~150cm 높이로 자라며 꽃은 자줏빛을 띤 연한 녹색으로 피고 꽃차례가 응축되어 이삭꽃차례처럼 보임",
+            "ecology": "산지의 풀숲, 평지의 습기 있는 땅에서 자람",
+            "location": "전국 각지",
+            "period": "5~9월"
+        },
+        "growth": {
+            "environment": "키가 크고 곧게 자라 관상용으로 적합하다. 짧은 땅속줄기가 가로로 뻗으면서 번식하며, 모래땅이나 가뭄에도 잘 견디는 특성을 가지고 있다. 또한 5~9월에 피는 화서의 길이가 15~20cm로 커 군집 식재하면 해변 경관용으로 매우 적합하다."
+        },
+        "rating": {
+            "ornamental_value": "가을 잎의 단풍, 화서의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP016.jpg",
+            "description": "키가 크고 곧게 자라며, 자줏빛을 띤 연한 녹색 꽃이 핌."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP017",
+        "basic_info": {
+            "korean_name": "기름새",
+            "scientific_name": "Spodiopogon cotulifer (Thunb.) Hack.",
+            "family": "벼과 (Poaceae)",
+            "characteristics": "80~120cm로 자라며, 꽃차례는 20~30cm로서 구부러지고, 가는 가지가 돌려나기로 붙으며 가지 끝에 대가 있는 작은 이삭이 붙음",
+            "ecology": "산지에서 자람",
+            "location": "전국 각지",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "산조풀과 비슷하게 키가 크고 곧게 자라지만 잎맥에 공통적으로 흰 줄이 뚜렷하다. 성기게 달린 꽃이삭의 가지가 관상가치가 있다. 볕이 잘 드는 양지바른 곳에서 잘 자라 사질양토에 식재하는 것이 좋다."
+        },
+        "rating": {
+            "ornamental_value": "가을 잎의 단풍, 화서의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP017.jpg",
+            "description": "잎맥에 흰 줄이 뚜렷하며 키가 크고 곧게 자람."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP018",
+        "basic_info": {
+            "korean_name": "부산사초",
+            "scientific_name": "Carex fusanensis Ohwi",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "10~30cm의 높이로 자라며 2~3개의 작은 이삭이 줄기 끝에 모여서 달림",
+            "ecology": "산지의 약간 건조한 숲속",
+            "location": "전국 각지",
+            "period": "4~5월"
+        },
+        "growth": {
+            "environment": "다년생의 사초로 꽃이 필 때는 잎이 짧고 곧게 서지만, 종자가 익은 후에는 잎이 길게 자라고 늘어진다. 보습성과 배수성이 좋은 사질양토를 사용해 관수 주기를 주 2회 정도 하여야 한다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 모양 및 화서의 관상가치가 높음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP018.jpg",
+            "description": "꽃이 필 때는 잎이 짧고 서지만, 종자가 익으면 잎이 길게 자라 늘어짐."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP019",
+        "basic_info": {
+            "korean_name": "좀송이고랭이",
+            "scientific_name": "Schoenoplectiella mucronata (L.) J.Jung & H.K.Choi",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "40~70cm의 높이로 자라며 2~10개의 작은이삭이 두상으로 밀집하여 줄기 옆을 뚫고 나오듯 달림",
+            "ecology": "습지와 연못에서 자람",
+            "location": "전국 각지",
+            "period": "8~10월"
+        },
+        "growth": {
+            "environment": "잎은 모서리가 예리한 정삼각형으로 8~10월경 2~18개의 작은 이삭이 머리모양으로 밀집하여 꽃이 달린다. 논 연못 습지에서 자라며 수생 흙에 식재하거나 일반 토양에서는 관수를 자주 해주어야 생육상태가 잘 유지된다."
+        },
+        "rating": {
+            "ornamental_value": "곧은 잎 형태, 화서의 모양이 관상가치 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "가로변",
+                "수공간"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP019.jpg",
+            "description": "잎은 모서리가 예리한 정삼각형. 작은 이삭이 머리모양으로 밀집."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP020",
+        "basic_info": {
+            "korean_name": "왕비늘사초",
+            "scientific_name": "Carex maximowiczii Miq.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "20~70cm의 높이로 자라며 2~4개의 작은이삭이 달리고 위쪽에는 선형의 수꽃이, 옆쪽에는 원주형의 암꽃이 달림",
+            "ecology": "낮은 산지 근처의 도랑이나 습지에서 자람",
+            "location": "전국 각지",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "꽃은 5~6월에 피고 종자를 싸고있는 과포가 크고 늘어지게 달려있는 모양새가 관상가치가 있다. 도랑이나 습지에서 자라 햇빛이 잘 들고 토양이 습한 환경에서 잘 자란다."
+        },
+        "rating": {
+            "ornamental_value": "잎, 화서 모양의 관상가치 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP020.jpg",
+            "description": "과포가 크고 늘어지게 달려있는 모양새가 특징."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP021",
+        "basic_info": {
+            "korean_name": "긴산꼬리풀",
+            "scientific_name": "Pseudolysimachion longifolium (L) Opiz",
+            "family": "현삼과 (Scrophulariaceae)",
+            "characteristics": "80~120cm 높이로 자라며 꽃은 연보라색이며 원줄기 끝에 총상꽃차례로 달림",
+            "ecology": "산지에서 자람",
+            "location": "전국 각지",
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": "보라색의 꽃이 7~8월에 개화하며 원줄기 끝에 달린다. 반그늘과 습기가 많은 곳에서 잘 자라며 양지에서는 꽃 색이 빨리 탈색되기 때문에 반그늘에 식재할 것을 추천한다. 일조시간을 늘리면 개화시기를 당길 수 있고, 보습성과 배수성이 좋은 사질양토에 마사를 섞어 물 빠짐이 좋은 토양을 사용해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양의 관상가치가 있음",
+            "management_difficulty": "★☆☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP021.jpg",
+            "description": "연보라색 꽃이 원줄기 끝에 총상꽃차례로 달림 (7~8월)."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP022",
+        "basic_info": {
+            "korean_name": "부산꼬리풀",
+            "scientific_name": "Pseudolysimachion pusanensis (Y.N.Lee) Y.N.Lee",
+            "family": "현삼과 (Scrophulariaceae)",
+            "characteristics": "약 20cm 높이로 비스듬하게 누워 자람. 줄기 끝에 푸른빛의 꽃이 총상꽃차례로 달림",
+            "ecology": "해안가에서 자람",
+            "location": "부산",
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": "긴산꼬리풀에 비해 키가 작고 비스듬이 누워 자라며 잎 가장자리에는 톱니가 깊게 발달한다. 반그늘과 습기가 많은 곳에서 잘 자라며 양지에서는 꽃 색이 빨리 탈색되기 때문에 반그늘에 식재할 것을 추천한다. 건조 조건에도 잘 견디며 일조시간을 늘리면 개화시기를 당길 수 있고, 보습성과 배수성이 좋은 사질양토에 마사를 섞어 물 빠짐이 좋은 토양을 사용해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양의 관상가치가 있음",
+            "management_difficulty": "★★★☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP022.jpg",
+            "description": "키가 작고 잎 가장자리 톱니가 깊음. 푸른빛 꽃."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP023",
+        "basic_info": {
+            "korean_name": "개정향풀",
+            "scientific_name": "Apocynum lancifolium Russanov",
+            "family": "협죽도과 (Apocynaceae)",
+            "characteristics": "40~80cm 높이로 자라며 줄기가 적색 빛을 띄며 자주색의 꽃차례로 달림",
+            "ecology": "산 또는 들에서 자람",
+            "location": "중부 이북 지방",
+            "period": "6~7월"
+        },
+        "growth": {
+            "environment": "키가 크게 자라며 줄기는 적색을 띄고 단단하다. 6~7월에 자주색의 꽃이 개화하며, 8월경에 익는 열매는 관상가치가 높다. 토양 적응력이 높아 건조와 다습 모든 조건에 잘 견디며, 염 스트레스 하에서도 어느 정도 생육이 유지된다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양, 향기의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원",
+                "가로수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP023.jpg",
+            "description": "줄기가 적색이고 단단함. 자주색 꽃과 열매가 관상가치 있음."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP024",
+        "basic_info": {
+            "korean_name": "각시취",
+            "scientific_name": "Saussurea pulchella (Fisch.) Fisch. ex Colla",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "30~150cm 높이로 자라며 자주색의 꽃이 원줄기 끝과 가지 끝에 산방꽃차례로 달림",
+            "ecology": "산과 들 양지바른 곳에서 자람",
+            "location": "전국 각지",
+            "period": "8~10월"
+        },
+        "growth": {
+            "environment": "줄기가 곧추서며 세로로 줄이 있고, 홍갈색을 띄며 짧은 털이 있다. 8~10월에 보라빛의 꽃이 피고 건조에서 잘 견디지만 양지에서 흔히 자라며 배수가 잘 되는 사질양토에서 잘 자란다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2~3회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP024.jpg",
+            "description": "줄기는 홍갈색이며 짧은 털이 있음. 자주색 꽃 (8~10월)."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP025",
+        "basic_info": {
+            "korean_name": "갯쑥부쟁이",
+            "scientific_name": "Aster hispidus Thunb.",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "높이 30~100cm로 자라며 꽃은 연한 보라색으로 줄기 끝에서 지름 3~5cm인 머리모양꽃이 1개씩 달림",
+            "ecology": "숲 가장자리와 해안가의 건조한 풀밭에서 자람",
+            "location": "전국 각지",
+            "period": "8~11월"
+        },
+        "growth": {
+            "environment": "꽃은 8~11월에 피며 줄기끝에서 지름 3~5cm인 머리 모양 꽃이 1개씩 달리며 연한 자주색 또는 흰색이다. 건조에 잘 견디지만 모래가 포함된 배수가 잘 되는 사질양토에서 잘 자란다. 또한 병충해에 약해 주기적인 방제를 해줘야 한다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "정원",
+                "가로수"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP025.jpg",
+            "description": "연한 보라색 꽃이 8~11월에 핌."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP026",
+        "basic_info": {
+            "korean_name": "벌개미취",
+            "scientific_name": "Aster koraiensis Nakai",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "높이 50~60cm로 자라며 연한 자주색의 꽃이 새 가지 끝에 겹산방꽃차례로 달림",
+            "ecology": "습지에서 잘 자람",
+            "location": "전남, 경남, 경북, 충북, 경기",
+            "period": "6~10월"
+        },
+        "growth": {
+            "environment": "꽃은 6~10월에 피고 지름 4~5cm로서 연한 자주색이다. 근경은 옆으로 뻗으며 적갈색으로 굵고 단단하며 10cm 정도로 짧다. 따라서 너무 깊게 식재하지 않도록 주의해야 하며, 햇볕이 잘 들고 배수가 잘 되는 부식질이 많은 사질양토에서 잘 자란다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "격주 1~2회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP026.jpg",
+            "description": "연한 자주색 꽃이 6~10월에 핌. 근경이 굵고 단단함."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP027",
+        "basic_info": {
+            "korean_name": "좀조팝나무",
+            "scientific_name": "Spiraea microgyna Nakai",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "1.5m 정도 높이로 자라며 꽃은 백색이나 중앙부에 연한 홍색이 돌며 새 가지 끝에 복산방꽃차례로 달림",
+            "ecology": "산지의 바위 지대에서 자람",
+            "location": "중부지방 이북",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "꽃은 5~6월에 피고 백색이나 중앙부에 연한 홍색이 돌며 일조량이 많은 곳에 식재하는 것이 좋다. 열매 봉선을 따라 약간의 털이 있다. 식재 토양에 마사를 섞어 물 빠짐이 좋게 하여야 한다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양, 향기의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2~3회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP027.jpg",
+            "description": "꽃은 백색이나 중앙부에 연한 홍색. 열매 봉선에 털이 있음."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP028",
+        "basic_info": {
+            "korean_name": "참조팝나무",
+            "scientific_name": "Spiraea fritschiana C.K.Schneid.",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "1~2m 높이로 자라며 꽃은 붉은빛이 도는 흰색으로 새 가지 끝에 겹편평꽃차례로 달림",
+            "ecology": "산지의 바위 지대에서 자람",
+            "location": "중부지방 이북",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "꽃은 5~6월에 피고 백색이나 중앙부에 연한 홍색이 돌며 일조량이 많은 곳에서 식재하는 것이 좋다. 좀조팝과 달리 잎이 크고 열매 봉선을 따라 털이 없다. 배수성과 보습성이 좋은 사질양토에 재배하는 것이 좋으며, 내염성이 약해 식재 시 주의해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "꽃 색감, 모양, 향기의 관상가치가 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 1회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP028.jpg",
+            "description": "좀조팝보다 잎이 큼. 붉은빛이 도는 흰색 꽃 (5~6월)."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP029",
+        "basic_info": {
+            "korean_name": "참삿갓사초",
+            "scientific_name": "Carex jaluensis Kom.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "40~70cm 높이로 자라며 위에 달리는 한두 개의 작은 이삭에는 수꽃만 달리고 아래의 줄기 옆에 달리는 4~5개의 작은 이삭에는 암꽃만 달림",
+            "ecology": "주로 강변의 모래땅에서 자람",
+            "location": "전국 각지 (제주 제외)",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "꽃은 5~6월에 피고, 4~7개의 작은 이삭이 달린다. 열매는 9월에 익으며, 익어도 갈라지지 않는다. 건조 및 염 스트레스에 대한 저항성이 낮고 습한 환경에서 잘 자란다."
+        },
+        "rating": {
+            "ornamental_value": "화서 모양이 관상가치 있음",
+            "management_difficulty": "★★★☆☆",
+            "watering_frequency": "주 2~3회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP029.jpg",
+            "description": "4~7개의 작은 이삭이 달림. 열매는 익어도 갈라지지 않음."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP030",
+        "basic_info": {
+            "korean_name": "개찌버리사초",
+            "scientific_name": "Carex japonica Thunb.",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "20~40cm 높이로 자라며 가장 위에 달리는 작은 이삭에는 수꽃만 달리고, 아래의 줄기 옆에 달리는 2~3개의 작은 이삭에는 암꽃만 달림",
+            "ecology": "그늘진 숲속 또는 습한 풀밭에서 자람",
+            "location": "전국 각지",
+            "period": "4~7월"
+        },
+        "growth": {
+            "environment": "햇빛이 잘 드는 곳에서 자라며, 땅속줄기는 길게 옆으로 뻗는다. 위쪽의 잎은 길고 위로 올라갈수록 초록빛을 띄며 아래쪽은 황갈색이다. 꽃은 4~7월에 개화한다. 보습성과 배수성이 좋은 사질양토에 마사를 섞어 물 빠짐이 좋은 토양을 사용해야 한다."
+        },
+        "rating": {
+            "ornamental_value": "화서 모양의 관상가치 있음",
+            "management_difficulty": "★★☆☆☆",
+            "watering_frequency": "주 2~3회",
+            "tags": [
+                "정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP030.jpg",
+            "description": "위쪽 잎은 초록빛, 아래쪽은 황갈색. 4~7월 개화."
+        },
+        "metadata": {
+            "source_url": "2024 자생식물 정원소재 활용가이드(vol2)",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP031",
+        "basic_info": {
+            "korean_name": "향등골나물",
+            "scientific_name": "Eupatorium tripartitum",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "곧고 긴 줄기가 여러 갈래로 풍성하게 자라 관목처럼 활용될 수 있음",
+            "ecology": null,
+            "location": "전국",
+            "period": "여름~가을"
+        },
+        "growth": {
+            "environment": "관목처럼 풍성하게 자라는 특성이 있어 정원 소재로 적합함"
+        },
+        "rating": {
+            "ornamental_value": "끝에는 진한 분홍색 꽃봉오리가 모여 달리고 폭죽이 터지듯 하얗게 개화함",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "올해의 정원식물",
+                "종합 우수",
+                "Best Performance",
+                "분홍색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP031.jpg",
+            "description": "진한 분홍색 꽃봉오리와 하얗게 핀 꽃이 어우러진 풍성한 모습 [cite: 1]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP032",
+        "basic_info": {
+            "korean_name": "변산향유",
+            "scientific_name": "Elsholtzia byeonsanensis",
+            "family": "꿀풀과 (Lamiaceae)",
+            "characteristics": "광택질의 초록색 잎 사이로 촘촘하게 꽃이 달림",
+            "ecology": null,
+            "location": "변산반도",
+            "period": "가을"
+        },
+        "growth": {
+            "environment": "양지바른 곳에서 잘 자라며 배수가 좋은 토양 선호"
+        },
+        "rating": {
+            "ornamental_value": "꽃이 보라색으로 물들며 광택 있는 잎과 화려한 색상의 대조를 이룸",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "올해의 정원식물",
+                "색상 우수",
+                "Best Color",
+                "보라색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP032.jpg",
+            "description": "광택 있는 초록 잎과 선명한 보라색 꽃의 조화 [cite: 1]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP033",
+        "basic_info": {
+            "korean_name": "층실사초",
+            "scientific_name": "Carex remotiuscula",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "얇은 실처럼 가는 잎과 꽃대가 적당한 탄력을 갖고 있음",
+            "ecology": null,
+            "location": "전국",
+            "period": "봄~여름"
+        },
+        "growth": {
+            "environment": "잎과 꽃대가 늘어져 입체감 있게 층을 쌓는 형태로 자람"
+        },
+        "rating": {
+            "ornamental_value": "가는 잎과 꽃대가 늘어지며 입체감 있는 질감을 연출함",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "보통",
+            "tags": [
+                "올해의 정원식물",
+                "질감 우수",
+                "Best Texture",
+                "그라스"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP033.jpg",
+            "description": "실처럼 가는 잎이 풍성하게 늘어져 층을 이룬 모습 [cite: 1]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP034",
+        "basic_info": {
+            "korean_name": "꼬랑사초",
+            "scientific_name": "Carex mira",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "수형과 잎의 양이 적당하여 부드러운 느낌을 줌",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": "특별히 두드러지는 특징이 없어 어떤 정원이든 조화롭게 어울림"
+        },
+        "rating": {
+            "ornamental_value": "어떤 정원 식물과도 조화롭게 어울리는 부드러운 질감",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "보통",
+            "tags": [
+                "올해의 정원식물",
+                "활용성 우수",
+                "Best Use",
+                "조화"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP034.jpg",
+            "description": "밝은 연두빛의 부드러운 잎이 뭉쳐 자라는 모습 [cite: 1]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP035",
+        "basic_info": {
+            "korean_name": "양뿔사초",
+            "scientific_name": "Carex capricornis",
+            "family": "사초과 (Cyperaceae)",
+            "characteristics": "여름 동안 가느다란 꽃대 끝에 이삭이 달림",
+            "ecology": null,
+            "location": null,
+            "period": "여름"
+        },
+        "growth": {
+            "environment": "습한 곳을 좋아하며 수변 식재에 적합"
+        },
+        "rating": {
+            "ornamental_value": "앙증맞은 방울 모양 이삭이 2~3개씩 달려 눈길을 사로잡음",
+            "management_difficulty": "보통",
+            "watering_frequency": "높음",
+            "tags": [
+                "올해의 정원식물",
+                "신규성 우수",
+                "Best New",
+                "이색형태"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP035.jpg",
+            "description": "가느다란 줄기 끝에 달린 특이한 방울(양뿔) 모양의 녹색 이삭 [cite: 1]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP036",
+        "basic_info": {
+            "korean_name": "구절초 '국야선녀'",
+            "scientific_name": "Dendranthema 'Kugyaseonnyeo'",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "분홍색 꽃잎과 노란색 중심부가 선명한 대비를 이룸",
+            "ecology": null,
+            "location": null,
+            "period": "가을"
+        },
+        "growth": {
+            "environment": "자생식물 신품종으로 정원용 국화로 개발됨"
+        },
+        "rating": {
+            "ornamental_value": "선명한 분홍색 꽃잎이 매우 화려함",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물 신품종",
+                "종합성 우수",
+                "Best Performance",
+                "분홍색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP036.jpg",
+            "description": "화려한 분홍색 꽃잎과 노란 수술이 돋보이는 국화 품종 [cite: 2]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP037",
+        "basic_info": {
+            "korean_name": "솔체꽃 '블루문'",
+            "scientific_name": "Scabiosa comosa 'Blue Moon'",
+            "family": "산토끼꽃과 (Dipsacaceae)",
+            "characteristics": "풍성한 겹꽃 형태의 보라색 꽃",
+            "ecology": null,
+            "location": null,
+            "period": "여름~가을"
+        },
+        "growth": {
+            "environment": "배수가 잘 되는 양지바른 곳 선호"
+        },
+        "rating": {
+            "ornamental_value": "신비로운 블루-퍼플 계열의 색상과 풍성한 볼륨감",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물 신품종",
+                "색상 우수",
+                "Best Color",
+                "보라색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP037.jpg",
+            "description": "겹꽃으로 피어난 풍성한 보라색 솔체꽃 [cite: 2]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP038",
+        "basic_info": {
+            "korean_name": "좀개미취 '국야백파'",
+            "scientific_name": "Aster maackii 'Kugyabaekpa'",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "흰색의 작은 꽃들이 무리지어 피어남",
+            "ecology": null,
+            "location": null,
+            "period": "가을"
+        },
+        "growth": {
+            "environment": "군락을 이루어 식재하기 좋음"
+        },
+        "rating": {
+            "ornamental_value": "깨끗한 흰색 꽃이 주는 질감이 우수함",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물 신품종",
+                "질감 우수",
+                "Best Texture",
+                "흰색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP038.jpg",
+            "description": "흰색 데이지 형태의 꽃들이 가득 피어난 모습 [cite: 2]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP039",
+        "basic_info": {
+            "korean_name": "산사나무 '대홍'",
+            "scientific_name": "Crataegus pinnatifida 'Daehong'",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "크고 붉은 열매가 탐스럽게 열림",
+            "ecology": null,
+            "location": null,
+            "period": "가을(열매)"
+        },
+        "growth": {
+            "environment": "정원수로 활용하기 좋은 낙엽 활엽 소교목"
+        },
+        "rating": {
+            "ornamental_value": "가을철 붉게 익는 열매의 관상가치가 매우 높음",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물 신품종",
+                "활용성 우수",
+                "Best Use",
+                "열매관상"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP039.jpg",
+            "description": "붉고 굵은 산사나무 열매가 뭉쳐 달린 모습 [cite: 2]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP040",
+        "basic_info": {
+            "korean_name": "찔레꽃 '노을향기'",
+            "scientific_name": "Rosa multiflora 'Noeulhyanggi'",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "은은한 연분홍색 꽃잎과 노란 수술",
+            "ecology": null,
+            "location": null,
+            "period": "봄"
+        },
+        "growth": {
+            "environment": "향기가 좋고 관상용으로 개발된 찔레꽃 품종"
+        },
+        "rating": {
+            "ornamental_value": "기존 찔레꽃과 차별화된 꽃 색상과 향기",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물 신품종",
+                "신규성 우수",
+                "Best New",
+                "향기식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP040.jpg",
+            "description": "연분홍빛 꽃잎이 부드럽게 펼쳐진 찔레꽃 [cite: 2]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP041",
+        "basic_info": {
+            "korean_name": "절굿대",
+            "scientific_name": "Echinops setifer",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "둥근 공 모양의 보라색 꽃이 핌",
+            "ecology": null,
+            "location": "전국",
+            "period": "여름"
+        },
+        "growth": {
+            "environment": "햇빛이 잘 들고 건조한 곳을 선호"
+        },
+        "rating": {
+            "ornamental_value": "완벽한 구형의 꽃 형태와 독특한 보라색 색감",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "낮음",
+            "tags": [
+                "자생식물",
+                "색상 우수",
+                "Best Color",
+                "절화용"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP041.jpg",
+            "description": "가시가 있는 잎과 둥근 보라색 꽃봉오리 [cite: 3]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP042",
+        "basic_info": {
+            "korean_name": "터리풀",
+            "scientific_name": "Filipendula glaberrima",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "자잘한 흰색 꽃이 솜사탕처럼 모여서 핌",
+            "ecology": null,
+            "location": "산지",
+            "period": "여름"
+        },
+        "growth": {
+            "environment": "약간 습한 곳을 좋아하며 반그늘에서도 잘 자람"
+        },
+        "rating": {
+            "ornamental_value": "안개처럼 퍼지는 흰색 꽃의 질감이 부드러움",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "자생식물",
+                "질감 우수",
+                "Best Texture",
+                "야생화"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP042.jpg",
+            "description": "하얀 거품처럼 풍성하게 피어난 꽃무리지 [cite: 3]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP043",
+        "basic_info": {
+            "korean_name": "두메부추",
+            "scientific_name": "Allium dumebuchium",
+            "family": "수선화과 (Amaryllidaceae)",
+            "characteristics": "연한 보라색의 공 모양 꽃차례",
+            "ecology": null,
+            "location": "울릉도 및 강원도",
+            "period": "가을"
+        },
+        "growth": {
+            "environment": "건조하고 척박한 토양에서도 잘 자라는 강한 생명력"
+        },
+        "rating": {
+            "ornamental_value": "깔끔한 구형의 꽃과 식용 가능한 잎의 활용성",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "낮음",
+            "tags": [
+                "자생식물",
+                "활용성 우수",
+                "Best Use",
+                "식용가능"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP043.jpg",
+            "description": "초록색 잎 사이로 올라온 연보라색 알리움 형태의 꽃 [cite: 3]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP044",
+        "basic_info": {
+            "korean_name": "낙지다리",
+            "scientific_name": "Penthorum chinense",
+            "family": "낙지다리과 (Penthoraceae)",
+            "characteristics": "줄기 끝에서 가지가 갈라져 낙지 다리 모양의 꽃차례를 이룸",
+            "ecology": null,
+            "location": "습지",
+            "period": "여름"
+        },
+        "growth": {
+            "environment": "습지나 물가에서 잘 자라며 수생 정원에 적합"
+        },
+        "rating": {
+            "ornamental_value": "독특한 꽃차례 형태와 가을철 단풍이 아름다움",
+            "management_difficulty": "보통",
+            "watering_frequency": "높음",
+            "tags": [
+                "자생식물",
+                "신규성 우수",
+                "Best New",
+                "수생식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP044.jpg",
+            "description": "낙지 다리처럼 사방으로 뻗은 연두빛 꽃대 [cite: 3]"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP045",
+        "basic_info": {
+            "korean_name": "전주물꼬리풀",
+            "scientific_name": "Pogostemon yatabeanus (Makino) Press",
+            "family": "꿀풀과 (Lamiaceae)",
+            "characteristics": "보라색의 꽃이 원통형 꽃차례를 이루며 핌",
+            "ecology": "습지에서 자람",
+            "location": "전주",
+            "period": "8~10월"
+        },
+        "growth": {
+            "environment": "습한 환경을 좋아하며 수변 식재에 적합함"
+        },
+        "rating": {
+            "ornamental_value": "가을철 보라색 꽃이 군락을 이루어 아름다움",
+            "management_difficulty": "보통",
+            "watering_frequency": "높음",
+            "tags": [
+                "2025년 올해의 정원식물",
+                "종합 우수",
+                "습지식물",
+                "보라색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP045.jpg",
+            "description": "보라색 꼬리 모양의 꽃차례가 곧게 선 모습"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP046",
+        "basic_info": {
+            "korean_name": "꽃장포",
+            "scientific_name": "Tofieldia yoshiiana Makino var. koreana (Ohwi) M.N.Tamura, Fuse & N.S.Lee",
+            "family": "꽃장포과 (Tofieldiaceae)",
+            "characteristics": "흰색의 작은 꽃들이 총상꽃차례로 달림",
+            "ecology": "습한 바위 틈이나 풀밭",
+            "location": null,
+            "period": "6~8월"
+        },
+        "growth": {
+            "environment": "배수가 잘 되면서도 습기가 있는 토양 선호"
+        },
+        "rating": {
+            "ornamental_value": "앙증맞은 흰색 꽃과 선형의 잎이 조화로움",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "2024년 올해의 정원식물",
+                "신규성 우수",
+                "흰색꽃",
+                "야생화"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP046.jpg",
+            "description": "가느다란 줄기 끝에 흰색 별 모양 꽃이 핌"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP047",
+        "basic_info": {
+            "korean_name": "순비기나무",
+            "scientific_name": "Vitex rotundifolia L.f.",
+            "family": "꿀풀과 (Lamiaceae)",
+            "characteristics": "덩굴성 목본으로 둥근 잎과 보라색 꽃을 가짐",
+            "ecology": "해안가 모래땅",
+            "location": "해안 지역",
+            "period": "7월 말~9월 초"
+        },
+        "growth": {
+            "environment": "내염성이 강해 해안 조경에 적합하며 건조에도 강함"
+        },
+        "rating": {
+            "ornamental_value": "보라색 꽃과 은회색을 띠는 잎 뒷면이 아름다움",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "낮음",
+            "tags": [
+                "2024년 올해의 정원식물",
+                "활용성 우수",
+                "지피식물",
+                "내염성"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP047.jpg",
+            "description": "둥근 잎 사이로 피어난 보라색 꽃"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP048",
+        "basic_info": {
+            "korean_name": "피뿌리풀",
+            "scientific_name": "Stellera chamaejasme L.",
+            "family": "팥꽃나무과 (Thymelaeaceae)",
+            "characteristics": "줄기 끝에 붉은색 꽃이 둥글게 모여 핌",
+            "ecology": "건조한 풀밭",
+            "location": "제주도",
+            "period": "7월"
+        },
+        "growth": {
+            "environment": "양지 바르고 건조한 곳을 좋아함"
+        },
+        "rating": {
+            "ornamental_value": "선명한 붉은 꽃과 독특한 질감이 돋보임",
+            "management_difficulty": "어려움",
+            "watering_frequency": "낮음",
+            "tags": [
+                "2024년 올해의 정원식물",
+                "질감 우수",
+                "붉은꽃",
+                "희귀식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP048.jpg",
+            "description": "붉은색 꽃봉오리와 흰색 꽃잎이 어우러진 구형 꽃차례"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP049",
+        "basic_info": {
+            "korean_name": "개족도리풀",
+            "scientific_name": "Asarum maculatum Nakai",
+            "family": "쥐방울덩굴과 (Aristolochiaceae)",
+            "characteristics": "잎에 흰색 얼룩 무늬가 있으며 땅에 붙어 자람",
+            "ecology": "산지 숲속",
+            "location": "제주도 및 남부 섬 지방",
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": "반그늘이나 그늘진 곳에서 잘 자라며 지피식물로 좋음"
+        },
+        "rating": {
+            "ornamental_value": "잎의 독특한 무늬와 질감이 관상 가치가 높음",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "2024년 올해의 정원식물",
+                "색상 우수",
+                "음지식물",
+                "무늬잎"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP049.jpg",
+            "description": "잎 표면에 흰색 얼룩 무늬가 있는 하트 모양의 잎"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP050",
+        "basic_info": {
+            "korean_name": "물싸리",
+            "scientific_name": "Dasiphora fruticosa (L.) Rydb.",
+            "family": "장미과 (Rosaceae)",
+            "characteristics": "노란색 꽃이 피는 낙엽 관목",
+            "ecology": "높은 산의 바위 지대",
+            "location": "북부 지방, 강원도",
+            "period": "6~8월"
+        },
+        "growth": {
+            "environment": "추위에 강하고 양지바른 곳에서 잘 자람"
+        },
+        "rating": {
+            "ornamental_value": "오랫동안 피는 노란 꽃과 작은 잎이 정원수로 적합함",
+            "management_difficulty": "보통",
+            "watering_frequency": "보통",
+            "tags": [
+                "2024년 올해의 정원식물",
+                "종합 우수",
+                "노란꽃",
+                "관목"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP050.jpg",
+            "description": "선명한 노란색 꽃이 핀 작은 나무 형태"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP051",
+        "basic_info": {
+            "korean_name": "사철란",
+            "scientific_name": "Goodyera schlechtendaliana Rchb.f.",
+            "family": "난초과 (Orchidaceae)",
+            "characteristics": "상록성 난초로 잎에 그물 무늬가 있음",
+            "ecology": "산지 숲속",
+            "location": "울릉도, 제주도, 남부 지방",
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": "그늘지고 습한 숲속 환경 선호"
+        },
+        "rating": {
+            "ornamental_value": "사계절 푸른 잎과 독특한 무늬, 흰색 꽃이 아름다움",
+            "management_difficulty": "어려움",
+            "watering_frequency": "보통",
+            "tags": [
+                "2025년 올해의 정원식물",
+                "신규성 우수",
+                "상록성",
+                "난초"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP051.jpg",
+            "description": "잎에 흰색 무늬가 있고 흰색 꽃대가 올라온 모습"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP052",
+        "basic_info": {
+            "korean_name": "물매화",
+            "scientific_name": "Parnassia palustris L.",
+            "family": "노박덩굴과 (Celastraceae)",
+            "characteristics": "흰색 꽃잎에 녹색 줄무늬가 있는 꽃이 핌",
+            "ecology": "산지 습지",
+            "location": "전국",
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": "햇빛이 잘 드는 습지 환경에서 잘 자람"
+        },
+        "rating": {
+            "ornamental_value": "청초한 흰색 꽃과 단정한 형태가 매력적임",
+            "management_difficulty": "어려움",
+            "watering_frequency": "높음",
+            "tags": [
+                "2025년 올해의 정원식물",
+                "활용성 우수",
+                "흰색꽃",
+                "야생화"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP052.jpg",
+            "description": "곧게 뻗은 꽃대 끝에 핀 흰색 꽃"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP053",
+        "basic_info": {
+            "korean_name": "좀속새",
+            "scientific_name": "Equisetum scirpoides Michx.",
+            "family": "속새과 (Equisetaceae)",
+            "characteristics": "가늘고 진녹색의 줄기가 뭉쳐 자라며 마디가 있음",
+            "ecology": "습한 숲속, 계곡 주변",
+            "location": "강원도 이북",
+            "period": null
+        },
+        "growth": {
+            "environment": "습기를 좋아하고 그늘진 곳에서도 잘 자라며 지피식물로 적합"
+        },
+        "rating": {
+            "ornamental_value": "가는 줄기가 모여 독특한 질감을 연출함",
+            "management_difficulty": "쉬움",
+            "watering_frequency": "높음",
+            "tags": [
+                "2025년 올해의 정원식물",
+                "질감 우수",
+                "상록성",
+                "지피식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP053.jpg",
+            "description": "가늘고 푸른 줄기가 빽빽하게 모여 자라는 모습"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP054",
+        "basic_info": {
+            "korean_name": "과남풀",
+            "scientific_name": "Gentiana triflora Pall. var. japonica (Kusn.) H.Hara",
+            "family": "용담과 (Gentianaceae)",
+            "characteristics": "진한 청보라색의 통꽃이 줄기 끝에 모여 핌",
+            "ecology": "높은 산 습지",
+            "location": "강원도, 북부 지방",
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": "서늘하고 습한 기후를 선호함"
+        },
+        "rating": {
+            "ornamental_value": "선명하고 짙은 청보라색 꽃색이 매우 뛰어남",
+            "management_difficulty": "어려움",
+            "watering_frequency": "높음",
+            "tags": [
+                "2025년 올해의 정원식물",
+                "색상 우수",
+                "청보라색꽃",
+                "고산식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP054.jpg",
+            "description": "줄기 끝에 모여 핀 진한 청보라색 꽃"
+        },
+        "metadata": {
+            "source_url": "대한민국 정원식물 전시품평회",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP055",
+        "basic_info": {
+            "korean_name": "전주물꼬리풀",
+            "scientific_name": "Pogostemon yatabeanus (Makino) Press",
+            "family": null,
+            "characteristics": "보라색 꼬리 모양의 꽃차례가 곧게 섬",
+            "ecology": null,
+            "location": null,
+            "period": "8~10월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "보라색 꽃이 풍성하게 피어 관상가치가 높음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "종합 우수",
+                "자생식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP055.jpg",
+            "description": "보라색 꽃이 빽빽하게 달린 꼬리풀 모양"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP056",
+        "basic_info": {
+            "korean_name": "꽃장포",
+            "scientific_name": "Tofieldia yoshiiana var. koreana",
+            "family": null,
+            "characteristics": "흰색의 작은 꽃들이 줄기 끝에 모여 핌",
+            "ecology": null,
+            "location": null,
+            "period": "6~8월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "앙증맞은 흰색 꽃과 선형의 잎이 조화로움",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "신규성 우수",
+                "자생식물",
+                "흰색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP056.jpg",
+            "description": "가느다란 줄기 끝에 핀 흰색 꽃"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP057",
+        "basic_info": {
+            "korean_name": "순비기나무",
+            "scientific_name": "Vitex rotundifolia L.f.",
+            "family": null,
+            "characteristics": "둥근 잎과 보라색 꽃을 가진 덩굴성 식물",
+            "ecology": null,
+            "location": null,
+            "period": "7월 말~9월 초"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "보라색 꽃과 둥근 잎의 조화가 아름다움",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "활용성 우수",
+                "자생식물",
+                "지피식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP057.jpg",
+            "description": "둥근 잎 사이로 피어난 보라색 꽃"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP058",
+        "basic_info": {
+            "korean_name": "피뿌리풀",
+            "scientific_name": "Stellera chamaejasme L.",
+            "family": null,
+            "characteristics": "줄기 끝에 붉은색 꽃이 둥글게 모여 핌",
+            "ecology": null,
+            "location": null,
+            "period": "7월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "선명한 붉은 꽃과 독특한 질감이 돋보임",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "질감 우수",
+                "자생식물",
+                "붉은꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP058.jpg",
+            "description": "붉은색과 흰색이 어우러진 구형 꽃차례"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP059",
+        "basic_info": {
+            "korean_name": "개족도리풀",
+            "scientific_name": "Asarum maculatum Nakai",
+            "family": null,
+            "characteristics": "잎 표면에 흰색 얼룩 무늬가 있는 하트 모양의 잎",
+            "ecology": null,
+            "location": null,
+            "period": "5~6월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "독특한 잎 무늬와 색상이 관상가치가 높음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "색상 우수",
+                "자생식물",
+                "무늬잎"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP059.jpg",
+            "description": "흰색 얼룩 무늬가 있는 초록색 잎"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP060",
+        "basic_info": {
+            "korean_name": "물싸리",
+            "scientific_name": "Dasiphora fruticosa (L.) Rydb.",
+            "family": null,
+            "characteristics": "선명한 노란색 꽃이 피는 작은 나무",
+            "ecology": null,
+            "location": null,
+            "period": "6~8월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "오랫동안 피는 노란 꽃이 정원수로 적합함",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "종합 우수",
+                "자생식물",
+                "노란꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP060.jpg",
+            "description": "작은 잎과 선명한 노란색 꽃"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP061",
+        "basic_info": {
+            "korean_name": "사철란",
+            "scientific_name": "Goodyera schlechtendaliana Rchb.f.",
+            "family": null,
+            "characteristics": "잎에 그물 무늬가 있는 상록성 난초",
+            "ecology": null,
+            "location": null,
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "사계절 푸른 잎과 독특한 무늬, 흰색 꽃이 아름다움",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "신규성 우수",
+                "자생식물",
+                "난초"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP061.jpg",
+            "description": "흰색 무늬가 있는 잎과 꽃대"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP062",
+        "basic_info": {
+            "korean_name": "물매화",
+            "scientific_name": "Parnassia palustris L.",
+            "family": null,
+            "characteristics": "흰색 꽃잎에 녹색 줄무늬가 있는 꽃",
+            "ecology": null,
+            "location": null,
+            "period": "7~9월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "청초한 흰색 꽃과 단정한 형태가 매력적임",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "활용성 우수",
+                "자생식물",
+                "야생화"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP062.jpg",
+            "description": "곧게 뻗은 꽃대 끝에 핀 흰색 꽃"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP063",
+        "basic_info": {
+            "korean_name": "좀속새",
+            "scientific_name": "Equisetum scirpoides Michx.",
+            "family": null,
+            "characteristics": "가늘고 진녹색의 줄기가 뭉쳐 자라며 마디가 있음",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "가는 줄기가 모여 독특한 질감을 연출함",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "질감 우수",
+                "자생식물",
+                "상록성"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP063.jpg",
+            "description": "가늘고 푸른 줄기가 빽빽하게 모여 자라는 모습"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP064",
+        "basic_info": {
+            "korean_name": "과남풀",
+            "scientific_name": "Gentiana triflora Pall. var. japonica (Kusn.) H.Hara",
+            "family": null,
+            "characteristics": "진한 청보라색의 통꽃이 줄기 끝에 모여 핌",
+            "ecology": null,
+            "location": null,
+            "period": "7~8월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "선명하고 짙은 청보라색 꽃색이 매우 뛰어남",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "색상 우수",
+                "자생식물",
+                "청보라색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP064.jpg",
+            "description": "줄기 끝에 모여 핀 진한 청보라색 꽃"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP065",
+        "basic_info": {
+            "korean_name": "알록큰봉의꼬리",
+            "scientific_name": "Pteris nipponica W.C.Shieh",
+            "family": null,
+            "characteristics": "잎 중앙부가 흰색이며 가장자리 녹색이 빗살무늬처럼 나타남",
+            "ecology": null,
+            "location": null,
+            "period": "7~9월 (포자형성시기)"
+        },
+        "growth": {
+            "environment": "높이 25~30cm 정도로 자라며 반음지식물로 실내 정원소재로 활용가치가 높습니다."
+        },
+        "rating": {
+            "ornamental_value": "잎의 흰색과 녹색 무늬가 조화로운 상록성 양치식물",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "신규성 우수",
+                "자생식물",
+                "무늬잎",
+                "상록성"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP065.jpg",
+            "description": "흰색 무늬가 있는 녹색 잎"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP066",
+        "basic_info": {
+            "korean_name": "섬말나리",
+            "scientific_name": "Lilium hansonii Leichtlin ex D.D.T.Moore",
+            "family": null,
+            "characteristics": "울릉도 특산종으로 자생 나리 중 가장 일찍 개화함",
+            "ecology": null,
+            "location": null,
+            "period": "6~7월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "진노랑색 꽃이 화려해 경관용으로 심으며 절화로도 쓰입니다.",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "활용성 우수",
+                "자생식물",
+                "노란꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP066.jpg",
+            "description": "화려한 진노랑색 꽃"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP067",
+        "basic_info": {
+            "korean_name": "실새풀",
+            "scientific_name": "Calamagrostis arundinacea (L.) Roth",
+            "family": null,
+            "characteristics": "곧은 줄기 끝에 다람쥐 꼬리를 닮은 탐스러운 꽃이삭이 달림",
+            "ecology": null,
+            "location": null,
+            "period": "8~9월"
+        },
+        "growth": {
+            "environment": "높이 60~150cm 정도로 자라며 건조와 염 스트레스에 강해서 도시정원 또는 가로변에 활용하기 좋습니다."
+        },
+        "rating": {
+            "ornamental_value": "모아 심었을 때 풍성하고 부드러운 느낌을 줌",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "질감 우수",
+                "자생식물",
+                "내건성",
+                "내염성"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP067.jpg",
+            "description": "풍성한 다람쥐 꼬리 모양의 꽃이삭"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP068",
+        "basic_info": {
+            "korean_name": "깽깽이풀",
+            "scientific_name": "Jeffersonia dubia (Maxim.) Benth. & Hook.f. ex Baker & Moore",
+            "family": null,
+            "characteristics": "이른 봄, 연보라색 꽃이 앙증맞게 피어남",
+            "ecology": null,
+            "location": null,
+            "period": "4~5월"
+        },
+        "growth": {
+            "environment": "높이는 20~30cm 정도로 자라며 잎이 모두 지하경에서 자라고 땅 위의 줄기가 없는 것이 특징입니다."
+        },
+        "rating": {
+            "ornamental_value": "검붉은색 새잎과 연보라색 꽃의 조화가 아름다움",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "색상 우수",
+                "자생식물",
+                "이른봄꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP068.jpg",
+            "description": "연보라색 꽃이 모여 핀 모습"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    },
+    {
+        "plant_id": "NP069",
+        "basic_info": {
+            "korean_name": "눈갯쑥부쟁이",
+            "scientific_name": "Aster hayatae H.Lév. & Vaniot",
+            "family": null,
+            "characteristics": "줄기가 땅을 기며 낮게 자라고 연보라색 꽃과 광택질의 잎이 작고 촘촘히 달림",
+            "ecology": "제주도 한라산에 자생",
+            "location": null,
+            "period": "9월"
+        },
+        "growth": {
+            "environment": "햇빛이 잘 드는 척박한 토양에서 잘 자라 암석원, 옥상정원 등 저관리형 정원에 활용하기 좋습니다."
+        },
+        "rating": {
+            "ornamental_value": "오밀조밀한 느낌을 주며 지피식물로 활용도가 높음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "종합 우수",
+                "자생식물",
+                "지피식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP069.jpg",
+            "description": "땅을 덮으며 피어난 연보라색 꽃"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-01-28"
+        }
+    }
+]
