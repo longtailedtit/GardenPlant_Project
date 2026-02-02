@@ -2287,5 +2287,529 @@
             "source_url": "2023년 올해의 정원식물",
             "collection_date": "2026-01-28"
         }
+    },
+    {
+        "plant_id": "NP070",
+        "basic_info": {
+            "korean_name": "기린초 '홍돌'",
+            "scientific_name": "Sedum 'Hongdol'",
+            "family": "돌나물과 (Crassulaceae)",
+            "characteristics": "검붉은 색의 줄기와 광택이 있는 녹색 잎, 진한 노란색 꽃이 조화를 이룸",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": "줄기가 곧고 낮게 자라 둥근 수형을 이루며 관리가 쉬움"
+        },
+        "rating": {
+            "ornamental_value": "강렬한 색 조합으로 정원에 포인트를 주기 좋음",
+            "management_difficulty": "쉬움",
+            "watering_frequency": null,
+            "tags": [
+                "올해의 정원식물",
+                "국내육성품종",
+                "종합 우수",
+                "Best Performance",
+                "노란꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP070.jpg",
+            "description": "검붉은 줄기와 노란색 꽃이 어우러진 모습"
+        },
+        "metadata": {
+            "source_url": "올해의 정원식물, 국내육성품종",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP071",
+        "basic_info": {
+            "korean_name": "부채붓꽃 '스노우윈디'",
+            "scientific_name": "Iris setosa 'SnowWindy'",
+            "family": "붓꽃과 (Iridaceae)",
+            "characteristics": "잎 중앙부를 따라 흰색 무늬가 시원하게 뻗으며 뿌리 부근부터 보랏빛이 은은하게 퍼짐",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "잎의 흰색 무늬와 보랏빛 그라데이션이 신비로운 분위기를 연출함",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "올해의 정원식물",
+                "국내육성품종",
+                "색상 우수",
+                "Best Color",
+                "무늬잎"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP071.jpg",
+            "description": "흰색 줄무늬가 있는 잎과 보랏빛 밑동"
+        },
+        "metadata": {
+            "source_url": "올해의 정원식물, 국내육성품종",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP072",
+        "basic_info": {
+            "korean_name": "톱풀 '루비스타'",
+            "scientific_name": "Achillea 'Ruby Star'",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "뭉툭한 톱 모양의 잎이 치밀한 조직감을 이루고 오밀조밀한 다홍색 꽃이 긴 꽃대 끝에 둥글게 모여 핌",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "치밀한 잎의 질감과 선명한 다홍색 꽃이 돋보임",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "올해의 정원식물",
+                "국내육성품종",
+                "질감 우수",
+                "Best Texture",
+                "다홍색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP072.jpg",
+            "description": "다홍색 꽃이 둥글게 모여 핀 모습"
+        },
+        "metadata": {
+            "source_url": "올해의 정원식물, 국내육성품종",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP073",
+        "basic_info": {
+            "korean_name": "가우라 '스타 블러드'",
+            "scientific_name": "Gaura lindheimeri 'Star Blood'",
+            "family": "바늘꽃과 (Onagraceae)",
+            "characteristics": "일반적인 가우라보다 키가 작고 단단하게 자라 잘 넘어지지 않음",
+            "ecology": null,
+            "location": null,
+            "period": "가을"
+        },
+        "growth": {
+            "environment": "키가 작고 단단하여 가을철 정원에 다용도로 쓰임"
+        },
+        "rating": {
+            "ornamental_value": "진한 분홍색 꽃과 단단한 수형으로 활용도가 높음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "올해의 정원식물",
+                "국내육성품종",
+                "활용성 우수",
+                "Best Use",
+                "분홍색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP073.jpg",
+            "description": "진분홍색 꽃이 핀 작고 단단한 수형"
+        },
+        "metadata": {
+            "source_url": "올해의 정원식물, 국내육성품종",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP074",
+        "basic_info": {
+            "korean_name": "무궁화 '꼬마'",
+            "scientific_name": "Hibiscus syriacus 'Ggoma'",
+            "family": "아욱과 (Malvaceae)",
+            "characteristics": "엄지 손가락 크기의 꽃과 잎이 달리는 작은 무궁화 품종",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "작고 귀여운 꽃과 잎이 특징적인 신품종",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "올해의 정원식물",
+                "국내육성품종",
+                "신규성 우수",
+                "Best New",
+                "왜성종"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP074.jpg",
+            "description": "작은 분홍색 꽃이 핀 무궁화"
+        },
+        "metadata": {
+            "source_url": "올해의 정원식물, 국내육성품종",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP065",
+        "basic_info": {
+            "korean_name": "털새 '오케이 골드라인'",
+            "scientific_name": "Arundinella hirta 'OK Goldline'",
+            "family": "벼과 (Poaceae)",
+            "characteristics": "길게 뻗은 녹색 잎에 황금색 세로무늬가 불규칙하면서도 선명하게 나타남",
+            "ecology": null,
+            "location": null,
+            "period": "8~9월"
+        },
+        "growth": {
+            "environment": "줄기가 잘 쓰러지지 않고 생육이 강건해 관리가 쉬움"
+        },
+        "rating": {
+            "ornamental_value": "여름 동안 황금색 꽃이삭이 달리고 가을에 붉게 익어 장관을 이룸",
+            "management_difficulty": "쉬움",
+            "watering_frequency": null,
+            "tags": [
+                "2023년 올해의 정원식물",
+                "국내육성품종",
+                "종합 우수",
+                "무늬잎",
+                "그라스"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP065.jpg",
+            "description": "황금색 세로무늬가 있는 잎과 이삭"
+        },
+        "metadata": {
+            "source_url": "2023년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP066",
+        "basic_info": {
+            "korean_name": "맥문동 '스프링 스노우'",
+            "scientific_name": "Liriope muscari 'Spring Snow'",
+            "family": "백합과 (Liliaceae)",
+            "characteristics": "잎 전체가 밝은 흰색(크림색)을 띠는 것이 특징",
+            "ecology": null,
+            "location": null,
+            "period": "가을"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "봄철 하얀 눈이 내린 듯한 잎 색상이 매우 아름다움",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "국내육성품종",
+                "신규성 우수",
+                "무늬잎",
+                "지피식물"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP066.jpg",
+            "description": "전체가 밝은 흰색을 띠는 잎"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP067",
+        "basic_info": {
+            "korean_name": "무궁화 '키즈 화이트'",
+            "scientific_name": "Hibiscus syriacus 'Kids White'",
+            "family": "아욱과 (Malvaceae)",
+            "characteristics": "순백색의 작은 꽃이 다화성으로 피어남",
+            "ecology": null,
+            "location": null,
+            "period": "7~10월"
+        },
+        "growth": {
+            "environment": "왜성종으로 키가 작게 자라 화분 재배나 작은 정원에 적합"
+        },
+        "rating": {
+            "ornamental_value": "깨끗한 흰색 꽃이 풍성하게 피어 활용도가 높음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "국내육성품종",
+                "활용성 우수",
+                "흰색꽃",
+                "왜성종"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP067.jpg",
+            "description": "작고 하얀 꽃이 핀 무궁화"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP068",
+        "basic_info": {
+            "korean_name": "수크령 '작은황금바람'",
+            "scientific_name": "Pennisetum alopecuroides 'Jageunhwanggeumbaram'",
+            "family": "벼과 (Poaceae)",
+            "characteristics": "일반 수크령보다 키가 작고 황금빛 이삭을 가짐",
+            "ecology": null,
+            "location": null,
+            "period": "8~9월"
+        },
+        "growth": {
+            "environment": null
+        },
+        "rating": {
+            "ornamental_value": "가을철 황금색으로 물드는 이삭의 질감이 우수함",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "국내육성품종",
+                "질감 우수",
+                "그라스",
+                "가을정원"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP068.jpg",
+            "description": "황금빛 이삭이 풍성하게 달린 모습"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP069",
+        "basic_info": {
+            "korean_name": "시계꽃 '케이 테라 로사'",
+            "scientific_name": "Passiflora 'K Terra Rossa'",
+            "family": "시계꽃과 (Passifloraceae)",
+            "characteristics": "진한 붉은색(테라로사 색상)의 꽃잎과 보라색 부화관이 특징",
+            "ecology": null,
+            "location": null,
+            "period": "4월"
+        },
+        "growth": {
+            "environment": "덩굴성 식물로 울타리나 아치에 활용하기 좋음"
+        },
+        "rating": {
+            "ornamental_value": "강렬한 붉은색과 보라색의 대비가 매우 화려함",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "국내육성품종",
+                "색상 우수",
+                "덩굴식물",
+                "화려한꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP069.jpg",
+            "description": "진한 붉은 꽃잎과 보라색 수술이 어우러진 시계꽃"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP070",
+        "basic_info": {
+            "korean_name": "수국 '화이트 펄'",
+            "scientific_name": "Hydrangea 'White Pearl'",
+            "family": "수국과 (Hydrangeaceae)",
+            "characteristics": "원추형 꽃차례에 순백색 꽃이 풍성하게 핌",
+            "ecology": null,
+            "location": null,
+            "period": "5~10월"
+        },
+        "growth": {
+            "environment": "개화 기간이 길고 정원수로 활용도가 높음"
+        },
+        "rating": {
+            "ornamental_value": "진주처럼 빛나는 흰색 꽃이 정원을 밝게 만들어줌",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2025년 올해의 정원식물",
+                "국내육성품종",
+                "종합 우수",
+                "흰색꽃",
+                "목수국"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP070.jpg",
+            "description": "풍성한 원추형의 흰색 수국 꽃"
+        },
+        "metadata": {
+            "source_url": "2025년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP071",
+        "basic_info": {
+            "korean_name": "알스트로메리아 '제이엔에이 웨딩피치'",
+            "scientific_name": "Alstroemeria 'JNA Wedding Pitch'",
+            "family": "알스트로메리아과 (Alstroemeriaceae)",
+            "characteristics": "복숭아빛이 도는 연한 분홍색 꽃잎에 노란색 무늬가 있음",
+            "ecology": null,
+            "location": null,
+            "period": "3월 말~5월, 11~1월"
+        },
+        "growth": {
+            "environment": "개화 기간이 길고 절화용으로도 우수함"
+        },
+        "rating": {
+            "ornamental_value": "웨딩 부케를 연상시키는 우아하고 화사한 색감",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "국내육성품종",
+                "신규성 우수",
+                "분홍색꽃",
+                "절화용"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP071.jpg",
+            "description": "연분홍색과 노란색 무늬가 조화로운 꽃"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP072",
+        "basic_info": {
+            "korean_name": "수련 '세미'",
+            "scientific_name": "Nymphaea 'Semi'",
+            "family": "수련과 (Nymphaeaceae)",
+            "characteristics": "진한 분홍색 꽃잎이 겹겹이 피어남",
+            "ecology": null,
+            "location": null,
+            "period": "4월 말~10월"
+        },
+        "growth": {
+            "environment": "개화 기간이 길고 수조나 연못 정원에 적합"
+        },
+        "rating": {
+            "ornamental_value": "물 위에 떠 있는 화려한 분홍색 꽃이 시선을 사로잡음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "국내육성품종",
+                "활용성 우수",
+                "수생식물",
+                "분홍색꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP072.jpg",
+            "description": "물 위에 핀 진분홍색 수련"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP073",
+        "basic_info": {
+            "korean_name": "금계국 '골든선라이트'",
+            "scientific_name": "Coreopsis 'Golden Sunlight'",
+            "family": "국화과 (Asteraceae)",
+            "characteristics": "노란색 꽃잎 안쪽에 붉은색 무늬가 선명하게 들어감",
+            "ecology": null,
+            "location": null,
+            "period": "6~10월"
+        },
+        "growth": {
+            "environment": "생육이 왕성하고 개화 기간이 길어 정원용으로 좋음"
+        },
+        "rating": {
+            "ornamental_value": "강렬한 노란색과 붉은색의 대비가 돋보임",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "국내육성품종",
+                "질감 우수",
+                "노란꽃"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP073.jpg",
+            "description": "노란 꽃잎 중앙에 붉은 무늬가 있는 꽃"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
+    },
+    {
+        "plant_id": "NP074",
+        "basic_info": {
+            "korean_name": "주목 '금빛노을'",
+            "scientific_name": "Taxus cuspidata 'Keumbitnoeul'",
+            "family": "주목과 (Taxaceae)",
+            "characteristics": "잎이 전체적으로 밝은 황금색을 띠는 상록 침엽수",
+            "ecology": null,
+            "location": null,
+            "period": null
+        },
+        "growth": {
+            "environment": "성장이 느리고 수형이 단정하여 정원수로 적합"
+        },
+        "rating": {
+            "ornamental_value": "사계절 내내 밝은 황금색 잎을 감상할 수 있음",
+            "management_difficulty": null,
+            "watering_frequency": null,
+            "tags": [
+                "2024년 올해의 정원식물",
+                "국내육성품종",
+                "색상 우수",
+                "상록수",
+                "황금잎"
+            ]
+        },
+        "media": {
+            "image_url": "images/NP074.jpg",
+            "description": "밝은 황금색 잎을 가진 주목"
+        },
+        "metadata": {
+            "source_url": "2024년 올해의 정원식물",
+            "collection_date": "2026-02-02"
+        }
     }
 ]
